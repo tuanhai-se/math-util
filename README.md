@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2026 by tuanhai-se](https://github.com/tuanhai-se/math-util/actions/workflows/cicd-script.yml/badge.svg)](https://github.com/tuanhai-se/math-util/actions/workflows/cicd-script.yml)
+
 # Welcome to Math Repository
 
 ## You will find in this repo the following stuff:
